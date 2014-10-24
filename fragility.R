@@ -1,6 +1,6 @@
 #Coded by Nam Lethanh
 # Evolution
-data=read.csv("fragility.csv", header=T)
+data=read.csv("data/fragility.csv", header=T)
 attach(data)
 #object 1
 scalefactor=1
